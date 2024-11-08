@@ -1,0 +1,20 @@
+export const skillsData = [
+  
+    'HTML',
+    'Javascript',
+    'React',
+    'C++',
+    'C',
+    'MongoDB',
+    'Git',
+    'Dart',
+    'Firebase',
+    'MaterialUI',
+    'Node Js',
+    'Redux-Saga',
+    'Github',
+    'VsCode',
+    'AndroidStudio',
+    'Postman',
+    'Express Js',
+  ]

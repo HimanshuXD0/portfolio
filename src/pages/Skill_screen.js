@@ -42,7 +42,7 @@ function S_page() {
         <DoughnutPie />
         <div className="flex flex-col gap-y-8">
           <div className="text-black font-extrabold tracking-tight text-[30px]">
-            Leetcode
+            GeeksforGeeks
           </div>
           <div className=" tracking-wide">
             Solved {questions.total}+ geeksforgeeks problems.

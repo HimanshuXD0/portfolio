@@ -62,7 +62,7 @@ function Home() {
             href={contactsData.resume}
             className="bg-[#FFD9D9] rounded-md text-black text-base font-semibold font-['Helvetica'] capitalize py-2 cursor-pointer flex flex-row items-center justify-center hover:scale-105 transition ease-in-out duration-300 px-4"
           >
-            Get Resume <DownloadIcon />
+            See Resume 
           </a>
           <NavLink to="/contact">
             <button className="text-white rounded-md text-base font-semibold font-['Helvetica'] leading-loose uppercase cursor-pointer text-center py-2 border hover:scale-105 transition ease-in-out duration-300 px-4">

@@ -2,7 +2,7 @@ export const contactsData = {
     name:'Himanshu Sharma',
     email: 'sharmahimanshu2429@gmail.com',
     phone: '+917389732429',
-    address: 'Noida ,Uttar Pradesh',
+    address: 'Noida , Uttar Pradesh',
     github: 'https://github.com/HimanshuXD0',
     linkedIn: 'https://www.linkedin.com/in/himanshuxd0/',
     leetcode:'https://www.geeksforgeeks.org/user/himanshu2924/',
